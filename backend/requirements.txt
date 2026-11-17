@@ -1,0 +1,25 @@
+# Backend API
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+
+# Database
+sqlalchemy
+alembic
+psycopg[binary]
+pgvector
+
+# AI and agent orchestration
+langgraph
+langchain-core
+langchain-nvidia-ai-endpoints
+openai
+
+# GitHub MCP integration
+mcp
+httpx
+
+# Utilities
+python-multipart
